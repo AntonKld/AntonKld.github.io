@@ -5,7 +5,7 @@
 [![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonKld)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosha94kld@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Anton1_1_1)
-</a>
+[![Discord](https://img.shields.io/badge/discord-link?style=for-the-badge&logo=Discord&logoSize=auto&color=%23000000)](discordapp.com/users/1011678289884086295)
 
 
 # 💻 Tech Stack:
@@ -26,8 +26,8 @@
 |---|---|
 | <a href="https://github.com/AntonKld/fitness"> Фитнес-центр SUPERGYM </a> |<a href="https://antonkld.github.io/fitness/">Сайт фитнес центра</a>|
 | <a href="https://github.com/AntonKld/1866847-sedona-35"> Sedona </a> |<a href="https://antonkld.github.io/1866847-sedona-35/index.html">Седона — небольшой городок в Аризоне</a>|
-| <a href="https://github.com/AntonKld/travel"> Travel Lifetour </a> |<a href="https://antonkld.github.io/travel/">Сайт Lifetour - организация походов в горы”.</a>|
 | <a href="https://github.com/AntonKld/Drink2Go"> Drink2Go </a> |<a href="https://antonkld.github.io/Drink2Go/">Drink2Go - это интернет-магазин кофейных напитков.</a>|
+| <a href="https://github.com/AntonKld/1866847-sedona-27"> Sedona-2 </a> |<a href="https://antonkld.github.io/1866847-sedona-27/">Сайт туристического городка в штате Аризона</a>|
+| <a href="https://github.com/AntonKld/travel"> Travel Lifetour </a> |<a href="https://antonkld.github.io/travel/">Сайт Lifetour - организация походов в горы”.</a>|
 | <a href="https://github.com/AntonKld/1866847-kekstagram-28"> Kekstagram </a> |<a href="https://antonkld.github.io/1866847-kekstagram-28/">Кекстаграм — сервис просмотра изображений.</a>||
 | <a href="https://github.com/AntonKld/Masa"> Маса </a> |<a href="https://antonkld.github.io/Masa/">Образовательный проект в Израиле: «Маса».</a>|
-| <a href="https://github.com/AntonKld/1866847-sedona-27"> Sedona-2 </a> |<a href="https://antonkld.github.io/1866847-sedona-27/">Сайт туристического городка в штате Аризона</a>|
